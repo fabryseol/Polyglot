@@ -1,0 +1,19 @@
+# WordPress defaults
+/node_modules/
+/vendor/
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Build artifacts
+polyglot-translator.zip
+*.zip
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Environment files
+.env
+.env.local
